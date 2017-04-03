@@ -9,11 +9,11 @@ Some quick reminders about Accessibility
  * Don't forget to use the keyboard's tab key and VoiceOver's Rotor to check the site
  * Use JavaScript together with ARIA when markup isn't enough
  * [#A11y](https://twitter.com/hashtag/a11y) checklist
-   * Is the heading hierarchy correct?
-   * Do links make sense and are easy to differentiate?
-   * Do all the important HTML Landmarks exist?
-   * Does using the tab key highlight items in a logical order?
-   * Are controls be reachable and actionable by keyboard?
+   * [ ] Is the heading hierarchy correct?
+   * [ ] Do links make sense and are easy to differentiate?
+   * [ ] Do all the important HTML Landmarks exist?
+   * [ ] Does using the tab key highlight items in a logical order?
+   * [ ] Are controls be reachable and actionable by keyboard?
 
 ## Intro
 
